@@ -8,7 +8,7 @@ Official Pytorch implementation of **Diffusion-based Bit-depth Expansion**.
 [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=zh-CN)
 
 
-[[`Arxiv`]()] [[`Poster`]()] [[`PPT`](src/figures/Presentation.pdf)]
+[[`Arxiv`]()] [[`Poster`]()] [[`Presentation`](src/figures/Presentation.pdf)]
 
 ## Overview
 <p align="left">
