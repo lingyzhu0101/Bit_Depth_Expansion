@@ -8,7 +8,7 @@ Official Pytorch implementation of **Diffusion-based Bit-depth Expansion**.
 [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=zh-CN)
 
 
-[[`Arxiv`]()] [[`Poster`]()] [[`PPT`](src/figures/Presentation_in_NTU.pdf)]
+[[`Arxiv`]()] [[`Poster`]()] [[`PPT`](src/figures/Presentation.pdf)]
 
 ## Overview
 <p align="left">
@@ -21,20 +21,13 @@ filtered by the High Frequency Denoising Filter (HFDF) to eliminate noise and ar
 
 ## Qualitative Performance
 <p align="left">
-<img src="src/figures/main_performance_qualitative.png" width=80% height=80% 
-class="center">
-</p>
-
-
-## Quantitative Performance
-<p align="left">
-<img src="src/figures/main_performance_quantitative.png.png" width=80% height=80% 
+<img src="src/figures/Qualitative result.png" width=80% height=80% 
 class="center">
 </p>
 
 
 ## TODO List
 This repository is still under active construction:
-- [x] Release training and testing codes
+- [ ] Release training and testing codes
 - [ ] Release pretrained models
 - [ ] Clean the code
