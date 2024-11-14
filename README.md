@@ -31,3 +31,17 @@ This repository is still under active construction:
 - [ ] Release training and testing codes
 - [ ] Release pretrained models
 - [ ] Clean the code
+
+
+## Contact
+
+- Lingyu Zhu: lingyzhu-c@my.cityu.edu.hk
+- Riyu Lu: riyulu2-c@my.cityu.edu.hk
+
+## Citation
+
+If you find our work helpful, please consider citing:
+
+```bibtex
+
+```
