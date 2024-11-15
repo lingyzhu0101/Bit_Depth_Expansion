@@ -43,5 +43,10 @@ This repository is still under active construction:
 If you find our work helpful, please consider citing:
 
 ```bibtex
+@INPROCEEDINGS{10743597,
+  author={Lu, Riyu and Zhu, Lingyu and Chen, Baoliang and Fan, Xiaopeng and Wang, Shiqi},
+  booktitle={2024 IEEE 26th International Workshop on Multimedia Signal Processing (MMSP)}, 
+  title={Diffusion-Based Bit-Depth Expansion}, 
+  year={2024}}
 
 ```
